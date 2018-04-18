@@ -1,4 +1,4 @@
-#Red Ghost Algorithmn To Find Pacman
+# Red Ghost Algorithmn To Find Pacman
 
 <code>
  define WayArray
