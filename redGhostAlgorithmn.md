@@ -1,6 +1,6 @@
 # Red Ghost Algorithmn To Find Pacman
 
-<code>
+<pre>
  define WayArray
  index=0
 
@@ -20,7 +20,7 @@ else goto increase
   print "Pacman Reached"
   End:
   END
-</code>
+</pre>
 
 ## description
 
