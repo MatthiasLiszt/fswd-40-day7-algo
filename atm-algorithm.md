@@ -1,13 +1,21 @@
 # ATM algorithm
 
 begin:
+
 PRINT "PLEASE ENTER AMOUNT AS MULTIPLE OF TEN"
+
 input amount
+
 IF amount is not a multiple of ten goto begin
+
 IF amount is not payable then goto notpayable
+
 curAmount=amount
+
 payout:
+
 IF curAmount > 100 then 
+
    pay out 100
    curAmount=curAmount-100
    goto payout
